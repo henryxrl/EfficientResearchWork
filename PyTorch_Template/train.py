@@ -1,6 +1,5 @@
 from collections import OrderedDict
 from tqdm import tqdm
-import argparse
 from dataset import get_dataloader
 from common import get_config
 from utils import cycle
